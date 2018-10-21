@@ -37,14 +37,6 @@ Run `ionic serve` to start the development environment.
 http://i-doctor.sakura.ne.jp/dokuwiki/doku.php/z_blog/2018/ionic4-firestore-crud
 
 
-## インストール方法
-
-`git clone https://github.com/adash333/ionic4-firestore-crud.git`
-
-Run `npm install` to install all dependencies.
-
-Run `ionic serve` to start the development environment.
-
 
 ## 開発環境
 
