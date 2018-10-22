@@ -10,7 +10,7 @@ src/environments/environment.ts を作成して頂き、ご自身のfirebaseのA
 // <>となっている部分は、自分のapiKeyを入力
 export const environment = {
   production: false,
-  firebase: {
+  config: {
     apiKey: '<your-key>',
     authDomain: '<your-project-authdomain>',
     databaseURL: '<your-database-URL>',
